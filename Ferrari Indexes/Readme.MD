@@ -12,7 +12,7 @@ deleting 00000010 bytes to 00 removes entirely the cell mesh, so it's not there
 
 000000F0 Nothing noticable
 
-00000100-110 Nothing Noticable, by removing from 020 to 110 does not affect the halo
+00000100-110 Nothing Noticable
 
 00000120 byte 06 and 00000130-1F0 is under safety cell
 
