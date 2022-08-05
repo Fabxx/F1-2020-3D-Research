@@ -29,3 +29,6 @@ I think that now i have to try to edit each string individually without editing 
 
 editing 00000150 affects the halo color, becoming the same color as the car: 
 
+![immagine](https://user-images.githubusercontent.com/30447649/183149722-3f1aa4e7-cd17-4568-92d6-c8984db78bc8.png)
+
+
