@@ -18,13 +18,12 @@ deleting 00000010 bytes to 00 removes entirely the cell mesh, so it's not there
 
 00000200-240 nothing
 
+editing 00000150 affects the halo color, becoming the same color as the car
+
 from 00000300-3E0 is the rear wing bumper
 
 Currently the halo was removed only by removing the bytes from 020 to 120, but it doesn't remove only the halo, but also some other car parts, if there are linked bytes between the memory regions to remove the halo, it will be much harder to discover it
 
-I think that now i have to try to edit each string individually without editing the others, and see how they affect the model from 020 to 110
-
-editing 00000150 affects the halo color, becoming the same color as the car
 
 # Hexadecimal map example for "safetycell" mesh in HxD
 
