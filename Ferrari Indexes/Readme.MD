@@ -1,4 +1,4 @@
-# Ferrari Indexes
+# Ferrari Indexes - Safetycell LOD0 mesh part
 
 deleting 00000010 bytes to 00 removes entirely the cell mesh, so it's not there
 
