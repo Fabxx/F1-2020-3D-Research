@@ -7,6 +7,8 @@ Tools used:
 
 -3dSimED32
 
+-HxD
+
 An Example of hex editing the models by removing parts with bytes of zeroes:
 
 ![immagine](https://user-images.githubusercontent.com/30447649/183149722-3f1aa4e7-cd17-4568-92d6-c8984db78bc8.png)
