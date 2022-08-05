@@ -25,3 +25,8 @@ Currently the halo was removed only by removing the bytes from 020 to 120, but i
 I think that now i have to try to edit each string individually without editing the others, and see how they affect the model from 020 to 110
 
 editing 00000150 affects the halo color, becoming the same color as the car
+
+# Hexadecimal map example for "safetycell" mesh in HxD
+
+![immagine](https://user-images.githubusercontent.com/30447649/183150188-da8761ea-7162-47a5-9b55-6de8e9ed5736.png)
+
